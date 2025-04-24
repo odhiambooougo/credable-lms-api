@@ -1,1 +1,1 @@
-# credable-lms-api
+# Credable Technical Assessment
